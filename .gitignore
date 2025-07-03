@@ -1,2 +1,3 @@
 .venv
 ref_repo/
+gsplat/__pycache__/
